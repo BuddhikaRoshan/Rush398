@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Buddhika Roshan</h1>
 <h3 align="center">"Enthusiastic IT Student | Navigating the Infinite Horizons of Tech 🚀"</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rush398&label=Profile%20views&color=0e75b6&style=flat" alt="rush398" /> </p>
+<p align="Center"> <img src="https://komarev.com/ghpvc/?username=rush398&label=Profile%20views&color=0e75b6&style=flat" alt="rush398" /> </p>
 
 - 👨‍🎓 I’m an Undergraduate at **SLIIT**
 
